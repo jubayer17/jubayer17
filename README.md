@@ -1,58 +1,67 @@
-```markdown
-<h1 align="center">Hi there! 👋</h1>
+# Hey there, I'm Jubayer Ahmed! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Developer+%7C+Learner" alt="Typing SVG">
-</p>
+Welcome to my GitHub profile! I'm a passionate developer from **Bhola** currently working with the **MERN** stack and exploring **Flutter** for mobile app development. I'm always learning new technologies and looking for ways to build innovative and impactful solutions. Let's connect and build something amazing!
 
 ---
 
-### 🌟 About Me
-- 🌱 I’m currently learning **React Native**, **Firebase**, and **Full-Stack Development**
-- 🔭 I’m working on beginner-friendly projects to improve my skills
-- 💡 Passionate about building mobile apps and exploring new technologies
-- 🎯 My goal is to become a skilled developer and contribute to impactful projects
+## 🚀 About Me
+
+- 🌱 Currently working with the **MERN** stack (MongoDB, Express.js, React, Node.js) and **Flutter** for mobile app development.
+- 💡 Focused on creating efficient, scalable, and user-friendly applications.
+- 🌍 Based in **Bhola**, striving to bring innovation and tech solutions to my community.
+- ☕ **Coffee + Code** = My daily fuel.
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-#### Frontend:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
+### Frontend
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-#### Backend:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</p>
+### Backend & Database
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-#### Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</p>
+### Mobile App Development
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
----
-
-### 📂 My Projects
-- **Cartorra App**: An eCommerce app with sign-in, sign-up, and product browsing.
-- **City App for Bhola**: A mobile app tailored for Bhola city.
-- **BMI Calculator App**: A React Native app to calculate BMI with user login.
+### Tools & Platforms
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
-### 📫 How to Reach Me
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubayer17&show_icons=true&theme=gruvbox&bg_color=2d2d2d&text_color=fff&icon_color=00FF00)
 
 ---
 
-<p align="center">Thanks for visiting my profile! 😊 Feel free to explore my repositories and connect with me!</p>
-```
+## 🧠 Problem Solving
+
+I love solving algorithmic and data structure problems to improve my problem-solving skills. Check out my profiles on the following platforms:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jubayer17/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC4?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jubayer17)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B63E5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jubayer17)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jubayer-ahmed26/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jub0.ahmed/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_jub0_/?hl=en)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubayer17@cse.pstu.ac.bd)
+
+---
+
+✨ Thanks for visiting! Feel free to explore my repositories and let's connect to create something amazing! 😄

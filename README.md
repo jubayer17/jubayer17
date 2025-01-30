@@ -1,15 +1,16 @@
 # Hey there, I'm Jubayer Ahmed! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer from **Bhola** currently working with the **MERN** stack and exploring **Flutter** for mobile app development. I'm always learning new technologies and looking for ways to build innovative and impactful solutions. Let's connect and build something amazing!
+Welcome to my GitHub! I’m a forward-thinking developer, **deeply immersed in the MERN stack**, building **scalable, intelligent, and user-driven applications**. I’m constantly pushing the boundaries of what's possible with technology, aiming to create innovative solutions that make a global impact. Let’s build the future together!
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently working with the **MERN** stack (MongoDB, Express.js, React, Node.js) and **Flutter** for mobile app development.
-- 💡 Focused on creating efficient, scalable, and user-friendly applications.
-- 🌍 Based in **Bhola**, striving to bring innovation and tech solutions to my community.
-- ☕ **Coffee + Code** = My daily fuel.
+- 🌱 **Currently building the future with** the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 💡 **Driven by innovation**, constantly seeking to **optimize and scale** user experiences with new technologies.
+- 🌍 From **Bhola**, I'm committed to bringing **tech-driven change** to my community and the world.
+- ⚡ **Always learning**, exploring new languages, tools, and frameworks to build **next-gen applications**.
+- ☕ **Coffee & Code** are the fuel that powers my **dynamic development journey**.
 
 ---
 
@@ -27,15 +28,23 @@ Welcome to my GitHub profile! I'm a passionate developer from **Bhola** currentl
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 ### Mobile App Development
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 
 ### Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ---
 
@@ -50,8 +59,8 @@ Welcome to my GitHub profile! I'm a passionate developer from **Bhola** currentl
 I love solving algorithmic and data structure problems to improve my problem-solving skills. Check out my profiles on the following platforms:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jubayer17/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC4?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jubayer17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B63E5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jubayer17)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8AC4?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GalvaaaTroN)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B63E5?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jubayerahmed26)
 
 ---
 

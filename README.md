@@ -1,12 +1,12 @@
 # Hey there, I'm Jubayer Ahmed! 👋
 
-Welcome to my GitHub! I’m a forward-thinking developer, **deeply immersed in the MERN stack**, building **scalable, intelligent, and user-driven applications**. I’m constantly pushing the boundaries of what's possible with technology, aiming to create innovative solutions that make a global impact. Let’s build the future together!
+Welcome to my GitHub! I’m a forward-thinking developer, **deeply immersed in the MERN stack and Next.js**, building **scalable, intelligent, and user-driven applications**. I’m constantly pushing the boundaries of what's possible with technology, aiming to create innovative solutions that make a global impact. Let’s build the future together!
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Currently building the future with** the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🌱 **Currently building the future with** the **MERN stack** (MongoDB, Express.js, React, Node.js) and **Next.js**.
 - 💡 **Driven by innovation**, constantly seeking to **optimize and scale** user experiences with new technologies.
 - 🌍 From **Bhola**, I'm committed to bringing **tech-driven change** to my community and the world.
 - ⚡ **Always learning**, exploring new languages, tools, and frameworks to build **next-gen applications**.
@@ -18,6 +18,7 @@ Welcome to my GitHub! I’m a forward-thinking developer, **deeply immersed in t
 
 ### Frontend
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

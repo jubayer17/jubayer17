@@ -51,25 +51,19 @@ Welcome to my GitHub! I’m a forward-thinking developer, **deeply immersed in t
 
 ## 📊 GitHub Stats & Top Languages
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jubayer17&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" 
+    width="48%" 
+  />
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=jubayer17&show_icons=true&theme=gruvbox&bg_color=2d2d2d&text_color=ffffff&icon_color=00FF00&hide_border=true" 
-        width="400" 
-        height="200"
-/>
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer17&layout=compact&langs_count=3&theme=gruvbox&bg_color=2d2d2d&text_color=ffffff&hide_border=true" 
-        width="400" 
-        height="170"
-/>
-    </td>
-  </tr>
-</table>
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jubayer17&layout=compact&theme=gruvbox&hide_border=true" 
+    width="48%" 
+  />
+</p>
+
+
 
 
 

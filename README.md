@@ -126,10 +126,16 @@
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="./profile/stats.svg" width="467" height="195" alt="Jubayer's GitHub Stats" />
-  <img src="./profile/top-langs.svg" width="467" height="195" alt="Jubayer's Top Languages" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github.com/jubayer17/jubayer17/blob/main/profile/stats.svg?raw=true" alt="Jubayer's GitHub Stats" width="100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github.com/jubayer17/jubayer17/blob/main/profile/top-langs.svg?raw=true" alt="Jubayer's Top Languages" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 

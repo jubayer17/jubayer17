@@ -127,8 +127,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" width="48%" alt="Jubayer's GitHub Stats" />
-  <img src="./profile/top-langs.svg" width="48%" alt="Jubayer's Top Languages" />
+  <img src="./profile/stats.svg" width="467" height="195" alt="Jubayer's GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="467" height="195" alt="Jubayer's Top Languages" />
 </p>
 
 ---

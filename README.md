@@ -68,22 +68,25 @@ My core stack includes **React, Next.js, TypeScript, NestJS, Django, PostgreSQL,
 
 ## 🚀 Projects
 
-**Compass German** — German language learning platform  
+**[Compass German](https://www.cgibdcu.com/)** — German language learning platform  
 `Astro` `Next.js` `Django REST Framework` `PostgreSQL` `Redis` `Docker` `CI/CD`
 
-**Sortorium** — ERP platform for HR, inventory, and operations  
+**[Sortorium](https://www.sortorium.com/)** — ERP platform for HR, inventory, and operations  
 `Next.js` `Redux Toolkit` `Django` `DRF` `PostgreSQL` `Docker` `CI/CD`
 
-**HireBD** — Job marketplace for candidates and employers  
+**[HireBD](http://13.140.141.131:3030)** — Job marketplace for candidates and employers  
 `Next.js` `NestJS` `TypeScript` `GraphQL` `PostgreSQL` `Prisma` `Apollo Client` `NextAuth` `JWT`
 
-**Geek Estates** — Real estate listings and search platform  
+**[Tapered](https://taperedbd.com/)** — Clothing e-commerce platform  
+`Shopify` `Liquid` `JavaScript` `HTML` `CSS`
+
+**[Geek Estates](https://geek-estates.vercel.app/)** — Real estate listings and search platform  
 `Next.js` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `GraphQL` `Apollo Client` `Cloudinary` `JWT`
 
-**CF Ladder** — Codeforces tracking and performance dashboard  
+**[CF Ladder](https://cf-ladder-pro.vercel.app/)** — Codeforces tracking and performance dashboard  
 `Next.js` `Express.js` `MongoDB` `Tailwind CSS` `Chart.js` `REST APIs`
 
-**Edulecta** — MERN eLearning platform  
+**[Edulecta](https://client-sigma-rust.vercel.app/)** — MERN eLearning platform  
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Redux` `REST APIs` `RBAC`
 
 ---

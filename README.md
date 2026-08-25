@@ -2,7 +2,7 @@
 
 **Software Engineer** building scalable full-stack systems, production APIs, and AI-powered applications.
 
-My core stack includes **React, Next.js, TypeScript, NestJS, Django, PostgreSQL, Redis, Docker, AWS, and CI/CD**, with experience in **LLMs, RAG, embeddings, semantic search, LangChain, and LangGraph**. My current role is Software Engineer at **GeekSSort**. fileciteturn0file0L4-L9
+My core stack includes **React, Next.js, TypeScript, NestJS, Django, PostgreSQL, Redis, Docker, AWS, and CI/CD**, with experience in **LLMs, RAG, embeddings, semantic search, LangChain, and LangGraph**.
 
 ---
 
@@ -51,42 +51,40 @@ My core stack includes **React, Next.js, TypeScript, NestJS, Django, PostgreSQL,
 - Built and maintained **115+ APIs** using Django, Django REST Framework, PostgreSQL, Redis, Celery, and Docker.
 - Delivered a **Multi-Tenant ERP System** with subdomain tenancy, RBAC, multi-branch support, HRM, Inventory, POS, and Finance.
 - Developed **Compass German**, a language-learning platform using Astro, Next.js, Django REST Framework, PostgreSQL, Redis, Docker, and CI/CD.
-- Built a **Barbershop Management System** with appointments, billing, inventory, attendance tracking, and ZKTeco integration. fileciteturn0file0L10-L26
+- Built a **Barbershop Management System** with appointments, billing, inventory, attendance tracking, and ZKTeco integration.
 
 ### GeekSSort — Junior Software Engineer
 **Oct 2025 – Feb 2026 · Dhaka, Bangladesh**
 
-- Worked with NestJS, GraphQL, Prisma, PostgreSQL, Redis, Shopify, Headless Shopify, and Framer. fileciteturn0file0L27-L33
+- Worked with NestJS, GraphQL, Prisma, PostgreSQL, Redis, Shopify, Headless Shopify, and Framer.
 
 ### Vivasoft Ltd. — Software Engineer Trainee
 **Apr 2025 – Sep 2025 · Remote**
 
-- Worked on NestJS backend services and Next.js frontend features for a production-oriented e-learning platform.
-- Integrated REST APIs, authentication flows, and client-server data handling using TypeScript, PostgreSQL, Prisma, Git, and Postman. fileciteturn0file0L34-L43
+- Worked on NestJS backend services and Next.js frontend features.
+- Integrated REST APIs, authentication flows, and client-server data handling using TypeScript, PostgreSQL, Prisma, Git, and Postman.
 
 ---
 
 ## 🚀 Projects
 
-**[Compass German](#)** — German language learning platform  
+**Compass German** — German language learning platform  
 `Astro` `Next.js` `Django REST Framework` `PostgreSQL` `Redis` `Docker` `CI/CD`
 
-**[Sortorium](#)** — ERP platform for HR, inventory, and operations  
+**Sortorium** — ERP platform for HR, inventory, and operations  
 `Next.js` `Redux Toolkit` `Django` `DRF` `PostgreSQL` `Docker` `CI/CD`
 
-**[HireBD](#)** — Job marketplace for candidates and employers  
+**HireBD** — Job marketplace for candidates and employers  
 `Next.js` `NestJS` `TypeScript` `GraphQL` `PostgreSQL` `Prisma` `Apollo Client` `NextAuth` `JWT`
 
-**[Geek Estates](#)** — Real estate listings and search platform  
+**Geek Estates** — Real estate listings and search platform  
 `Next.js` `NestJS` `TypeScript` `PostgreSQL` `Prisma` `GraphQL` `Apollo Client` `Cloudinary` `JWT`
 
-**[CF Ladder](#)** — Codeforces tracking and performance dashboard  
+**CF Ladder** — Codeforces tracking and performance dashboard  
 `Next.js` `Express.js` `MongoDB` `Tailwind CSS` `Chart.js` `REST APIs`
 
-**[Edulecta](#)** — MERN eLearning platform with authentication and progress tracking  
+**Edulecta** — MERN eLearning platform  
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Redux` `REST APIs` `RBAC`
-
-Project details and technologies are based on the current CV. fileciteturn0file0L71-L85
 
 ---
 
@@ -104,11 +102,9 @@ Project details and technologies are based on the current CV. fileciteturn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jubayer17&show_icons=true&hide_border=true&theme=gruvbox" width="48%" alt="Jubayer's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubayer17&layout=compact&hide_border=true&theme=gruvbox" width="48%" alt="Jubayer's Top Languages" />
+  <img src="./profile/stats.svg" width="48%" alt="Jubayer's GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="48%" alt="Jubayer's Top Languages" />
 </p>
-
-The stats cards use the official `github-readme-stats` public endpoint documented by the project. The public service is caching-based and can occasionally hit rate limits, but this is the standard endpoint and is currently documented by the project. citeturn747251search4
 
 ---
 
